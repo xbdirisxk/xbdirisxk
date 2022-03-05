@@ -1,14 +1,13 @@
 ### Hi there 👋 my name is Abdirisak
 <img align="right" alt="GIF" height="300px" src='https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/chill%20scene.gif' />
 
-- 🎨 I'm front-end developer
+- 🎨 I'm newbie coder
 - 🎨 I'm linux lover
 - ⚡ Fun fact: I use Vim over Emacs
 
 ### 🎯 Goals
-- mastering ReactJS 
-- learn firebase, Nodejs and graphQL
-- solving 100 LeetCode algorithm problems
+- mastering React 
+- learn JS backend and APIs in depth
 
 ### Languages, Frameworks and Tools
 #### currently working with
