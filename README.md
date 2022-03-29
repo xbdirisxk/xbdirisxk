@@ -1,33 +1,51 @@
-### Hi there 👋 my name is Abdirisak
-<img align="right" alt="GIF" height="300px" src='https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/chill%20scene.gif' />
+<img align="right" alt="GIF" height="300px" src='https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/tenor.gif' />
 
-- 🎨 I'm newbie coder
-- 🎨 I'm linux lover
-- ⚡ Fun fact: I use Vim over Emacs
+### Hi there 👋 my name is Abdirisak
+
+-   🎨 I'm newbie coder
+-   🎨 I'm linux lover
+-   ⚡ Fun fact: I use Vim over Emacs
 
 ### 🎯 Goals
-- mastering React 
-- learn JS backend and APIs in depth
+
+-   mastering React
+-   learn JS backend and APIs in depth
 
 ### Languages, Frameworks and Tools
+
+<table>
+<tr>
+<td valign="top" width="30%">
+ 
 #### currently working with
-
-<code><img width=90 height= 50 src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" alt="React"></code>
-<code><img width=90 height= 50 src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg" alt="CSS"></code> 
-<code><img width=90 height= 50 src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg" alt="HTML"></code> <br/>
-<code><img width=90 height= 50 src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" alt="Git"></code> 
-<code><img width=90 height= 50 src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg" alt="Bootstrap"></code>
-<code><img width=90 height= 50 src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg" alt="NPM"></code> <br/>
-<code><img width=90 height= 50 src="https://www.vectorlogo.zone/logos/js_webpack/js_webpack-ar21.svg" alt="Webpack"></code>
-<code><img width=90 height= 50 src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-ar21.svg" alt="Jest test"></code>
-
+ 
+<div align="center">  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />   
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  <br/>
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" /> 
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/webpack-original.svg" alt="Webpack" height="50" />  <br/>
+<img width=80 height= 50 src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" alt="Git"> 
+<img width=90 height= 50 src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg" alt="NPM">
+<img width=90 height= 50 src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-ar21.svg" alt="Jest test">
+</div>
+</td>
+  
+<td valign="top" width="20%">
+ 
 #### also know
-<code><img width=50 height= 40 src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python"></code>
-<code><img width=90 height= 50 src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg" alt="Flask"></code>
-
+ 
+<div align="center">  
+<img width=50 height= 40 src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python">
+<img width=90 height= 50 src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg" alt="Flask">
+</div>
+</td></tr></table>
 
 ### Code style
-<code><img width=100 height= 50 src="https://www.vectorlogo.zone/logos/airbnb/airbnb-ar21.svg" alt="Airbnb style guide"></code>
+
+<img width=100 height= 50 src="https://www.vectorlogo.zone/logos/airbnb/airbnb-ar21.svg" alt="Airbnb style guide">
 
 ---
 
