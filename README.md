@@ -1,15 +1,10 @@
-<img align="right" alt="GIF" height="300px" src='https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/tenor.gif' />
+<!-- <img align="right" alt="GIF" height="300px" src='https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/trust%20me.gif' /> -->
 
 ### Hi there 👋 my name is Abdirisak
 
 -   🎨 I'm newbie coder
 -   🎨 I'm linux lover
 -   ⚡ Fun fact: I use Vim over Emacs
-
-### 🎯 Goals
-
--   mastering React
--   learn JS backend and APIs in depth
 
 ### Languages, Frameworks and Tools
 
@@ -22,10 +17,10 @@
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />   
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  <br/>
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /> <br/>  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /> 
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" /> 
+<!-- <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" />  -->
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/webpack-original.svg" alt="Webpack" height="50" />  <br/>
 <img width=80 height= 50 src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" alt="Git"> 
 <img width=90 height= 50 src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg" alt="NPM">
@@ -42,10 +37,6 @@
 <img width=90 height= 50 src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg" alt="Flask">
 </div>
 </td></tr></table>
-
-### Code style
-
-<img width=100 height= 50 src="https://www.vectorlogo.zone/logos/airbnb/airbnb-ar21.svg" alt="Airbnb style guide">
 
 ---
 
