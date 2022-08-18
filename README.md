@@ -1,12 +1,12 @@
-<!-- <img align="right" alt="GIF" height="300px" src='https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/trust%20me.gif' /> -->
+<h1 align="center">
+  <b>Hi👋 I'm Abdirisak Mohamed</b>
+</h1>
 
-### Hi there 👋 my name is Abdirisak
+I have recently graduated in software engineering currently living in Hargeisa, Somaliland. and learning programming through small projects on the side.
 
-- 🎨 I'm newbie coder
-- 🎨 I'm linux lover
-- ⚡ Fun fact: I use Vim over Emacs
+<br>
 
-### Technologies & Tools
+## Front End
 
 <table>
   <tr>
@@ -56,6 +56,15 @@
       <br /><strong>React</strong>
     </td>
     <td align="center" height="108" width="108">
+    <img
+    src="https://github.com/devicons/devicon/blob/v2.15.1/icons/nextjs/nextjs-original.svg"
+    width="48"
+    height="48"
+    alt="Next.js"
+    />
+    <br/><strong>Nextjs</strong>
+  </td>
+    <td align="center" height="108" width="108">
       <img
         src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"
         width="48"
@@ -73,26 +82,13 @@
       />
       <br /><strong>Material UI</strong>
     </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg"
-        width="48"
-        height="48"
-        alt="Bootstrap"
-      />
-      <br /><strong>Bootstrap</strong>
-    </td>
   </tr>
+</table>
+
+## Back End
+
+  <table>
   <tr>
-  <td align="center" height="108" width="108">
-    <img
-    src="https://github.com/devicons/devicon/blob/v2.15.1/icons/nextjs/nextjs-original.svg"
-    width="48"
-    height="48"
-    alt="Next.js"
-    />
-    <br/><strong>Nextjs</strong>
-  </td>
     <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
@@ -129,7 +125,15 @@
       />
       <br /><strong>PostgreSQL</strong>
     </td>
-    <td align="center" height="108" width="108">
+  </tr>
+  
+</table>
+
+## Tools
+
+  <table>
+  <tr>
+  <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
         width="48"
@@ -157,8 +161,13 @@
       <br /><strong>Jest</strong>
     </td>
   </tr>
+  </table>
+
+## Interest
+
+  <table>
   <tr>
-    <td align="center" height="108" width="108">
+  <td align="center" height="108" width="108">
       <img
         src="https://profilinator.rishav.dev/skills-assets/python-original.svg"
         width="48"
@@ -167,18 +176,11 @@
       />
       <br /><strong>Python</strong>
     </td>
-  <td align="center" height="108" width="108">
-    <img
-    src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg"
-    width="48"
-    height="48"
-    alt="Flask"
-    />
-    <br/><strong>Flask</strong>
-  </td>
   </tr>
-</table>
+  </table>
 
 ---
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xbdirisxk&theme=vue)
+
+<!-- ![](https://activity-graph.herokuapp.com/graph?username=xbdirisxk&theme=redical&hide_border=true&area=true) -->
