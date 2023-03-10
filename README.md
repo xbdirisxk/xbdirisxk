@@ -10,7 +10,7 @@ I'm a Full Stack Developer who loves to work with JS/TS technologies. Right now 
 
 <table>
   <tr>
-    <td align="center" height="108" width="108">
+    <td align="center" height="120" width="120">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg"
         width="48"
@@ -19,7 +19,7 @@ I'm a Full Stack Developer who loves to work with JS/TS technologies. Right now 
       />
       <br /><strong>TypeScript</strong>
     </td>
-    <td align="center" height="108" width="108">
+    <td align="center" height="108" width="120">
     <img
     src="https://github.com/devicons/devicon/blob/v2.15.1/icons/nextjs/nextjs-original.svg"
     width="48"
@@ -28,7 +28,7 @@ I'm a Full Stack Developer who loves to work with JS/TS technologies. Right now 
     />
     <br/><strong>Nextjs</strong>
   </td>
-    <td align="center" height="108" width="108">
+    <td align="center" height="108" width="120">
       <img
         src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"
         width="48"
@@ -40,6 +40,5 @@ I'm a Full Stack Developer who loves to work with JS/TS technologies. Right now 
   </tr>
 </table>
 
----
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xbdirisxk&theme=vue)
