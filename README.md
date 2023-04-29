@@ -5,7 +5,7 @@
 I'm a Full Stack Developer who loves to work with JS/TS technologies. I'm always on the hunt for new tech to solve real-life problems and make user experiences rock. Let's create something awesome together!
 <br>
 
-## most used technology
+## fav stack
 
 <table>
   <tr>
